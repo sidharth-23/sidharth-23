@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sidharth-23.github.io/portfolio-website/index.html](https://sidharth-23.github.io/portfolio-website/index.html)
-
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **https://twitter.com/Sidharthc23**
